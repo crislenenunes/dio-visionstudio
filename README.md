@@ -101,15 +101,15 @@ Identificação da escrita por reconhecimento e tradução automática para o id
 ![Imagem 4](output/imagem4.png)
 
 **- Análise de imagem:** a funcionalidade de Análise de Imagem do Azure AI Vision Studio oferece uma variedade de recursos poderosos para entender e extrair informações de imagens. Algumas das possibilidades apresentadas no site desta função incluem:
-1- Reconhecer produtos em uma prateleira
-2- Personalize modelos com imagem 
-3- Pesquise fotos com recuperação de imagem
-4- Adicone legendas densas às imagens 
-5- Remover fundo de imagens
-6- Adicionar legendas às imagens
-7- Detecta objetos comuns em imagens
-8- Extraia tags comuns das imagens 
-9- Detecta conteúdo confidencial em imagens
+-1- Reconhecer produtos em uma prateleira
+-2- Personalize modelos com imagem 
+-3- Pesquise fotos com recuperação de imagem
+-4- Adicone legendas densas às imagens 
+-5- Remover fundo de imagens
+-6- Adicionar legendas às imagens
+-7- Detecta objetos comuns em imagens
+-8- Extraia tags comuns das imagens 
+-9- Detecta conteúdo confidencial em imagens
 10- Cria imagens cortadas de forma inteligente
 
 Utilizando a mesma imagem já utilizada neste documento para contagem de pessoas, utilizando a funcionalidade **Adicione legendas densas às imagens**.
