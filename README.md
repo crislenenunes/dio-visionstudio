@@ -96,6 +96,7 @@ Identificação da escrita por reconhecimento e tradução automática para o id
 -Monitorar o distanciamento social.
 
 **- Face:** a funcionalidade Face do Azure AI Vision Studio oferece recursos avançados de reconhecimento facial, permitindo a detecção e análise de rostos em imagens e vídeos. Com capacidades de identificação, verificação, análise de emoções e atributos faciais, essa funcionalidade permite criar aplicações de reconhecimento facial altamente precisas e escaláveis. Ideal para aplicações de segurança, personalização de experiência do usuário e análise de emoções em tempo real.
+
 ![Imagem 3](output/imagem3.png)
 ![Imagem 4](output/imagem4.png)
 
